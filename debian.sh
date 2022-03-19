@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # desktop environment
+sudo apt install lightdm
 sudo apt install cinnamon
 
 #icon set
